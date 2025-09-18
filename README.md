@@ -1,3 +1,7 @@
+<div align="center">
+    <img width="250" height="155" alt="lllo" src="https://github.com/user-attachments/assets/c2fb76b7-17d0-4978-8dbc-4186a2f5cfd7" />
+</div>
+
 # Proofline Agent
 
 **Proofline Agent** is a comprehensive manuscript editing and analysis tool powered by AI. It provides advanced capabilities for writers, editors, and publishers to analyze, edit, translate, and improve large manuscripts and books.
