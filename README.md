@@ -1,8 +1,8 @@
-# Proofline Agent 📝
+# Proofline Agent
 
 **Proofline Agent** is a comprehensive manuscript editing and analysis tool powered by AI. It provides advanced capabilities for writers, editors, and publishers to analyze, edit, translate, and improve large manuscripts and books.
 
-## 🚀 Features
+## Features
 
 ### Core Manuscript Tools
 - **📖 Manuscript Indexing** - Automatic chapter detection and structure analysis
@@ -16,6 +16,8 @@
 - **🌍 Manuscript Translation** - Multi-language translation with quality control
 - **📋 Translation Quality Assessment** - Automated translation evaluation
 - **🎯 Context-Aware Translation** - Maintains narrative consistency across languages
+- 
+<img width="1246" height="890" alt="Screenshot 2025-09-18 at 13 47 10" src="https://github.com/user-attachments/assets/583ccf98-6846-4ec0-bce1-f2d320649d94" />
 
 ### Advanced Features
 - **💾 Context Caching** - Efficient processing of large manuscripts
@@ -23,7 +25,7 @@
 - **📈 Quality Metrics** - Comprehensive manuscript quality assessment
 - **🔄 Global Manuscript Editor** - Whole-book editing capabilities
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: React 18, TypeScript, Vite
 - **AI Integration**: Google Gemini AI
@@ -31,7 +33,7 @@
 - **UI Components**: React Window for performance
 - **Build System**: Vite with hot reload
 
-## 📋 Prerequisites
+## Prerequisites
 
 - **Node.js** (v16 or higher)
 - **npm** or **yarn**
@@ -61,7 +63,7 @@
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Auto-start (Recommended)
 ```bash
@@ -80,7 +82,7 @@ Then navigate to: http://localhost:5173
 ./scripts/start.sh
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 proofline-agent/
