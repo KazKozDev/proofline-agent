@@ -106,11 +106,12 @@ proofline-agent/
 └── dist/                  # Build output
 ```
 
-## 📝 License
-
-This project is private and proprietary.
-
-
 ---
+
+If you like this project, please give it a star ⭐
+
+For questions, feedback, or support, reach out to:
+
+[Artem KK](https://www.linkedin.com/in/kazkozdev/) | MIT [LICENSE](LICENSE) 
 
 **Built with ❤️ for writers and editors worldwide**
