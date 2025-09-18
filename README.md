@@ -104,74 +104,10 @@ proofline-agent/
 └── dist/                  # Build output
 ```
 
-## 🎯 Usage Examples
-
-### Manuscript Analysis
-```typescript
-const indexer = new ManuscriptIndexer();
-const index = await indexer.createIndex(manuscriptText);
-console.log(`Found ${index.chapters.length} chapters`);
-```
-
-### Chapter Rewriting
-```typescript
-const rewriter = new ChapterRewriter();
-const rewrittenChapter = await rewriter.rewriteChapter(
-  chapterText,
-  { intensity: 'moderate' }
-);
-```
-
-### Translation
-```typescript
-const translator = new ManuscriptTranslator(apiKey);
-const translation = await translator.translateManuscript(
-  text,
-  'English',
-  'Spanish'
-);
-```
-
-## 🔧 Available Scripts
-
-- `npm start` - Start development server with auto-browser opening
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
 ## 📝 License
 
 This project is private and proprietary.
 
-## 🐛 Issue Reporting
-
-Found a bug? Please create an issue using our [bug report template](.github/ISSUE_TEMPLATE/bug_report.md).
-
-## 💡 Feature Requests
-
-Have an idea? Submit a [feature request](.github/ISSUE_TEMPLATE/feature_request.md).
-
-## 🔒 Security
-
-- API keys are never logged or exposed
-- Environment variables are properly managed
-- All sensitive data is excluded from version control
-
-## 📊 Performance
-
-- Optimized for large manuscripts (100k+ words)
-- Efficient memory usage with context caching
-- Real-time processing with React Window virtualization
 
 ---
 
